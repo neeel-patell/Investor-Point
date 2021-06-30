@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="in.weareindian.investorapp.ui.home.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_stocks"
+        android:name="in.weareindian.investorapp.ui.india.IndiaFragment"
+        android:label="@string/india"
+        tools:layout="@layout/india_fragment" />
+
+    <fragment
+        android:id="@+id/navigation_mutual"
+        android:name="in.weareindian.investorapp.ui.business.BusinessFragment"
+        android:label="@string/business"
+        tools:layout="@layout/business_fragment" />
+
+    <fragment
+        android:id="@+id/navigation_ipos"
+        android:name="in.weareindian.investorapp.ui.defense.DefenseFragment"
+        android:label="@string/defense"
+        tools:layout="@layout/defense_fragment" />
+
+    <fragment
+        android:id="@+id/navigation_prime"
+        android:name="in.weareindian.investorapp.ui.prime.PrimeFragment"
+        android:label="@string/prime"
+        tools:layout="@layout/prime_fragment" />
+
+
+
+
+</navigation>

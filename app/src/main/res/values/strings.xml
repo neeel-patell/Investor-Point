@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Investor Point</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="home">Home</string>
+    <string name="business">Business</string>
+    <string name="defense">Defense</string>
+    <string name="prime">Prime</string>
+    <string name="lists">Lists</string>
+    <string name="more">more</string>
+    <string name="blog">Blog</string>
+    <string name="india">India</string>
+
+    <string name="openDrawer">0</string>
+    <string name="closeDrawer">1</string>
+
+    <string name="default_notification_channel_id">1</string>
+    <string name="channel_name">channel_name</string>
+    <string name="channel_description">channel_description</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="please_check_your_internet_connection_and_try_again">Please check your internet connection and try again</string>
+    <string name="retry">Retry</string>
+
+
+</resources>

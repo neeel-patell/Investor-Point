@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/new_home_foreground"
+        android:title="@string/home" />
+
+    <item
+        android:id="@+id/navigation_stocks"
+        android:icon="@drawable/new_stocks_foreground"
+        android:title="Stocks" />
+
+    <item
+        android:id="@+id/navigation_mutual"
+        android:icon="@drawable/new_mutual_funds_foreground"
+        android:title="Mutual Funds" />
+
+    <item
+        android:id="@+id/navigation_ipos"
+        android:icon="@drawable/new_ipo_foreground"
+        android:title="IPOs" />
+
+    <item
+        android:id="@+id/navigation_prime"
+        android:icon="@drawable/new_prime_foreground"
+        android:title="Prime" />
+
+
+
+    <!--<item
+        android:id="@+id/navigation_blog"
+        android:icon="@drawable/ic_baseline_chrome_reader_mode_24"
+        android:title="@string/blog" />-->
+</menu>

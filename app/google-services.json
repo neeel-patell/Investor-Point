@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "53832862130",
+    "firebase_url": "https://quik-news-3240f.firebaseio.com",
+    "project_id": "quik-news-3240f",
+    "storage_bucket": "quik-news-3240f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53832862130:android:725c4a2b82ac6697c63cab",
+        "android_client_info": {
+          "package_name": "in.weareindian.quiknews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53832862130-4bvh58fgm2tp7qeeouf48dqv7reuunb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBycn_7jUc_4gKalBOysJPVI_wZRNU95-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53832862130-4bvh58fgm2tp7qeeouf48dqv7reuunb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
